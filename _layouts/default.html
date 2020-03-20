@@ -4,14 +4,21 @@
 			<title>{{ page.title }}</title>
 			<!-- link to main stylesheet -->
       <link rel="stylesheet" type="text/css" href="/assets/css/styles.css">
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
       {% feed_meta %}
       {% seo %}
 			<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 		</head>
 		<body>
-    
-			<nav>
+
+
+    <!-- [NAVIGATION BAR] -->
+			<nav id="page-nav">
+        <!-- [THE HAMBURGER] -->
+        <label for="hamburger">&#9776;</label>
+        <input type="checkbox" id="hamburger"/>
+        <!-- [MENU ITEMS] -->
 	    		<ul>
 	        		<li><a href="/" class="navigation">Home</a></li>
 		        	<li><a href="/about" class="navigation">About</a></li>
@@ -33,6 +40,7 @@
 		
 			</footer>
 			<script src="https://kit.fontawesome.com/09b5efbfe0.js" crossorigin="anonymous"></script>
-			<script async defer src="https://buttons.github.io/buttons.js"></script>
+      <script async defer src="https://buttons.github.io/buttons.js"></script>
+      <script src="main.js"></script>
 		</body>
 	</html>

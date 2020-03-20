@@ -1,7 +1,5 @@
 body { margin: 100px auto; width: 70%; color: #E0E0E0; background-color: #2f617a; }
 
-@media only screen and (min-width: 481px) { body { padding-top: 24px; padding-right: 24px; padding-left: 24px; } }
-
 .navigation { padding-left: 1.2rem; font-size: 1.2rem; }
 
 .nav-links { padding-left: 1.4rem; }
@@ -29,5 +27,23 @@ ul.posts li { list-style: none; }
 .about { text-align: center; }
 
 .blurb-text { text-align: center; color: white; }
+
+@media only screen and (min-width: 480px) { body { padding-top: 24px; padding-right: 24px; padding-left: 24px; }
+  nav ul li, footer ul li { display: block; margin-right: 20px; text-align: center; } }
+
+/* Hide Hamburger */
+#page-nav label, #hamburger { display: none; }
+
+/* [ON SMALL SCREENS] */
+@media screen and (max-width: 768px) { /* Show Hamburger */
+  #page-nav label { display: inline-block; color: #fff; background: #a02620; font-style: normal; font-size: 1.2em; padding: 10px; }
+  /* Break down menu items into vertical */
+  #page-nav ul li { display: block; }
+  #page-nav ul li { border-top: 1px solid #333; }
+  /* Toggle show/hide menu on checkbox click */
+  #page-nav ul { display: none; }
+  #page-nav input:checked ~ ul { display: block; } }
+
+/* [DOES NOT MATTER] */
 
 /*# sourceMappingURL=styles.css.map */
