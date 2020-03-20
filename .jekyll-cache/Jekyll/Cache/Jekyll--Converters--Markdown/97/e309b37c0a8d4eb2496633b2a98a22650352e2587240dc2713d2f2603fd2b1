@@ -1,11 +1,7 @@
----
-layout: default
-title: About
----
-
-
-<div class="blurb">
+I"t<div class="blurb">
 	<h1 class="about">A little about me</h1>
 	<p>I live in a small town in Arkansas with my wife, 4 year old, and 2 tiny yappers. 
     When I'm not programming I play music, video games,read books, and write. I also drink a lot of creamer with a dab of coffee in it, because, well, coffee sucks in its natural state. Fight me.</p>
-</div><!-- /.blurb -->
+</div>
+<!-- /.blurb -->
+:ET
