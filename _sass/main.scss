@@ -108,7 +108,7 @@ ul.posts li {
     #page-nav label {
       display: inline-block;
       color: #fff;
-      background: #a02620;
+      background: #24232373;
       font-style: normal;
       font-size: 1.2em;
       padding: 10px;
@@ -121,6 +121,11 @@ ul.posts li {
     #page-nav ul li {
       border-top: 1px solid #333;
     }
+
+    #page-nav ul li:hover {
+        background-color: #333;
+      }
+
   
     /* Toggle show/hide menu on checkbox click */
     #page-nav ul {
