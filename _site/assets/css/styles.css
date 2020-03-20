@@ -4,6 +4,8 @@ body { margin: 100px auto; width: 70%; color: #E0E0E0; background-color: #2f617a
 
 .nav-links { padding-left: 1.4rem; }
 
+.navigation { display: inline; }
+
 nav ul, footer ul { font-family: 'Helvetica', 'Arial', 'Sans-Serif'; padding: 0px; list-style: none; font-weight: bold; text-align: center; }
 
 nav ul li, footer ul li { display: inline; margin-right: 20px; text-align: center; }
@@ -28,8 +30,8 @@ ul.posts li { list-style: none; }
 
 .blurb-text { text-align: center; color: white; }
 
-@media only screen and (min-width: 480px) { body { padding-top: 24px; padding-right: 24px; padding-left: 24px; }
-  nav ul li, footer ul li { display: block; margin-right: 20px; text-align: center; } }
+@media only screen and (max-width: 768px) { body { padding-top: 24px; padding-right: 24px; padding-left: 24px; }
+  nav ul li, footer ul li { display: block; text-align: center; padding: 10px; } }
 
 /* Hide Hamburger */
 #page-nav label, #hamburger { display: none; }

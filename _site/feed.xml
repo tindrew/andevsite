@@ -1,4 +1,20 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-03-19T23:23:40-05:00</updated><id>http://localhost:4000/feed.xml</id><entry><title type="html">Kiwifruit</title><link href="http://localhost:4000/2018/08/22/kiwifruit.html" rel="alternate" type="text/html" title="Kiwifruit" /><published>2018-08-22T00:00:00-05:00</published><updated>2018-08-22T00:00:00-05:00</updated><id>http://localhost:4000/2018/08/22/kiwifruit</id><content type="html" xml:base="http://localhost:4000/2018/08/22/kiwifruit.html">&lt;p&gt;Kiwifruit (often abbreviated as kiwi), or Chinese gooseberry is the edible
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-03-20T00:06:26-05:00</updated><id>http://localhost:4000/feed.xml</id><entry><title type="html">Starting Late: Learning To Code At 40</title><link href="http://localhost:4000/2019/12/05/Starting-Late-Learning-to-Code-at-40.html" rel="alternate" type="text/html" title="Starting Late: Learning To Code At 40" /><published>2019-12-05T00:00:00-06:00</published><updated>2019-12-05T00:00:00-06:00</updated><id>http://localhost:4000/2019/12/05/Starting-Late:-Learning-to-Code-at-40</id><content type="html" xml:base="http://localhost:4000/2019/12/05/Starting-Late-Learning-to-Code-at-40.html">&lt;p&gt;I’ve been meaning to start a blog/YouTube/podcast/something for a good while now, as a way to start documenting my programming journey.&lt;/p&gt;
+
+&lt;p&gt;A little about me, I’m 42, have a wife, kid, 2 dogs and a cat, and have (mostly) worked bs jobs in order to make ends meet.&lt;/p&gt;
+
+&lt;p&gt;I’m sure there’s a lot of people in my shoes, trying to get a start in a new career, and coming to software development later than most, so I’m hoping maybe this might help some people who are in the same boat.&lt;/p&gt;
+
+&lt;p&gt;Honestly, I’ve been trying to learn to code on and off since 2016-2017. I’ve learned some basics, but I’ve struggled to retain things in the past. I hopped around a bunch, got stuck in Udemy Course Hell(more on that later), had a child, a couple of major deaths in the family, and a huge cross country move plus a bunch of other stuff that threw me off track.&lt;/p&gt;
+
+&lt;p&gt;So here I am, 2ish years later making another go of it.&lt;/p&gt;
+
+&lt;p&gt;Why?&lt;/p&gt;
+
+&lt;p&gt;For one, I’m a creative person. Programming is, in a lot of ways, the ultimate creative experience. For two, I want to do something I love for a living. I’ve done mostly career-dead jobs. I want something more. For three, I want to be home more. I took a job in the oil field in texas, because good jobs where I live in Arkansas are scarce. It pays decent, but I’m away for over a month at a time, with maybe a week off in between. My son is almost 4, and I’m missing a lot of his life.&lt;/p&gt;
+
+&lt;p&gt;What am I learning? I’m currently going through Tim Buchalca’s insanely huge Java Master Class for Developers. It’s a 75+ hour long course jam packed with everything a person would need to learn Java. I’m saying that as someone who has bought and tried more courses than I should have, but if I figured out one thing doing that, it is how I learn and what I needed to do to progress.&lt;/p&gt;
+
+&lt;p&gt;This is getting kind of long, so I’ll continue in the next one.&lt;/p&gt;</content><author><name>Andrew</name></author><summary type="html">I’ve been meaning to start a blog/YouTube/podcast/something for a good while now, as a way to start documenting my programming journey.</summary></entry><entry><title type="html">Kiwifruit</title><link href="http://localhost:4000/2018/08/22/kiwifruit.html" rel="alternate" type="text/html" title="Kiwifruit" /><published>2018-08-22T00:00:00-05:00</published><updated>2018-08-22T00:00:00-05:00</updated><id>http://localhost:4000/2018/08/22/kiwifruit</id><content type="html" xml:base="http://localhost:4000/2018/08/22/kiwifruit.html">&lt;p&gt;Kiwifruit (often abbreviated as kiwi), or Chinese gooseberry is the edible
 berry of several species of woody vines in the genus Actinidia.&lt;/p&gt;
 
 &lt;p&gt;The most common cultivar group of kiwifruit is oval, about the size of a large
@@ -11,11 +27,4 @@ texture, with a sweet and unique flavor.&lt;/p&gt;</content><author><name>ted</n
 the genus Malus. The tree originated in Central Asia, where its wild ancestor,
 Malus sieversii, is still found today. Apples have been grown for thousands of
 years in Asia and Europe, and were brought to North America by European
-colonists.&lt;/p&gt;</content><author><name>jill</name></author><summary type="html">An apple is a sweet, edible fruit produced by an apple tree.</summary></entry><entry><title type="html">Bananas</title><link href="http://localhost:4000/2018/08/20/bananas.html" rel="alternate" type="text/html" title="Bananas" /><published>2018-08-20T00:00:00-05:00</published><updated>2018-08-20T00:00:00-05:00</updated><id>http://localhost:4000/2018/08/20/bananas</id><content type="html" xml:base="http://localhost:4000/2018/08/20/bananas.html">&lt;p&gt;A banana is an edible fruit – botanically a berry – produced by several kinds
-of large herbaceous flowering plants in the genus Musa.&lt;/p&gt;
-
-&lt;p&gt;In some countries, bananas used for cooking may be called “plantains”,
-distinguishing them from dessert bananas. The fruit is variable in size, color,
-and firmness, but is usually elongated and curved, with soft flesh rich in
-starch covered with a rind, which may be green, yellow, red, purple, or brown
-when ripe.&lt;/p&gt;</content><author><name>jill</name></author><summary type="html">A banana is an edible fruit – botanically a berry – produced by several kinds of large herbaceous flowering plants in the genus Musa.</summary></entry></feed>
+colonists.&lt;/p&gt;</content><author><name>jill</name></author><summary type="html">An apple is a sweet, edible fruit produced by an apple tree.</summary></entry></feed>
