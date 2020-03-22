@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-03-22T03:21:13-05:00</updated><id>http://localhost:4000/feed.xml</id><entry><title type="html">Project: Blog Site</title><link href="http://localhost:4000/blog-site" rel="alternate" type="text/html" title="Project: Blog Site" /><published>2020-03-19T00:00:00-05:00</published><updated>2020-03-19T00:00:00-05:00</updated><id>http://localhost:4000/Project:-Blog-site</id><content type="html" xml:base="http://localhost:4000/blog-site">&lt;p&gt;“Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.”
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-03-22T04:03:34-05:00</updated><id>http://localhost:4000/feed.xml</id><entry><title type="html">Project: Blog Site</title><link href="http://localhost:4000/blog-site" rel="alternate" type="text/html" title="Project: Blog Site" /><published>2020-03-19T00:00:00-05:00</published><updated>2020-03-19T00:00:00-05:00</updated><id>http://localhost:4000/Project:-Blog-site</id><content type="html" xml:base="http://localhost:4000/blog-site">&lt;p&gt;“Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.”
 “Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.”
 “Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.”&lt;/p&gt;
 
@@ -20,10 +20,107 @@
 
 &lt;p&gt;What am I learning? I’m currently going through Tim Buchalca’s insanely huge Java Master Class for Developers. It’s a 75+ hour long course jam packed with everything a person would need to learn Java. I’m saying that as someone who has bought and tried more courses than I should have, but if I figured out one thing doing that, it is how I learn and what I needed to do to progress.&lt;/p&gt;
 
-&lt;p&gt;This is getting kind of long, so I’ll continue in the next one.&lt;/p&gt;</content><author><name>Andrew</name></author><summary type="html">I’ve been meaning to start a blog/YouTube/podcast/something for a good while now, as a way to start documenting my programming journey.</summary></entry><entry><title type="html">Something</title><link href="http://localhost:4000/2019/09/22/something.html" rel="alternate" type="text/html" title="Something" /><published>2019-09-22T00:00:00-05:00</published><updated>2019-09-22T00:00:00-05:00</updated><id>http://localhost:4000/2019/09/22/something</id><content type="html" xml:base="http://localhost:4000/2019/09/22/something.html">&lt;h1&gt; test of something &lt;/h1&gt;</content><author><name></name></author><summary type="html">test of something</summary></entry><entry><title type="html">Apples</title><link href="http://localhost:4000/2018/08/21/apples.html" rel="alternate" type="text/html" title="Apples" /><published>2018-08-21T00:00:00-05:00</published><updated>2018-08-21T00:00:00-05:00</updated><id>http://localhost:4000/2018/08/21/apples</id><content type="html" xml:base="http://localhost:4000/2018/08/21/apples.html">&lt;p&gt;An apple is a sweet, edible fruit produced by an apple tree.&lt;/p&gt;
+&lt;p&gt;This is getting kind of long, so I’ll continue in the next one.&lt;/p&gt;</content><author><name>Andrew</name></author><summary type="html">I’ve been meaning to start a blog/YouTube/podcast/something for a good while now, as a way to start documenting my programming journey.</summary></entry><entry><title type="html">Breakfast Then Code</title><link href="http://localhost:4000/2019/01/11/Breakfast-then-Code.html" rel="alternate" type="text/html" title="Breakfast Then Code" /><published>2019-01-11T00:00:00-06:00</published><updated>2019-01-11T00:00:00-06:00</updated><id>http://localhost:4000/2019/01/11/Breakfast-then-Code</id><content type="html" xml:base="http://localhost:4000/2019/01/11/Breakfast-then-Code.html">&lt;p&gt;I’ve been coding for 60 days straight now. I hit a bump about 40 days in when I struggled really hard to continue, Mainly it was due to not knowing how to practice, but switching courses really helped. Hitting that bump helped me learn how to practice, even if no exercises are provided.&lt;/p&gt;
 
-&lt;p&gt;Apple trees are cultivated worldwide, and are the most widely grown species in
-the genus Malus. The tree originated in Central Asia, where its wild ancestor,
-Malus sieversii, is still found today. Apples have been grown for thousands of
-years in Asia and Europe, and were brought to North America by European
-colonists.&lt;/p&gt;</content><author><name>jill</name></author><summary type="html">An apple is a sweet, edible fruit produced by an apple tree.</summary></entry></feed>
+&lt;p&gt;During this time coding I’ve also hit a point where I don’t spend my spare time doing anything else but trying to learn. Granted, it’s not always a lot of time, but there are definitely days where I will spend 4 -5 hours coding, when I have that much time available.&lt;/p&gt;
+
+&lt;p&gt;Coding has definitely become a habit. It’s one of those things now where I dont feel right if I miss a day. I find myself thinking about programming even when I’m not, or looking at tweeter and reading other people’s programming - related stuff, or reading on here.&lt;/p&gt;
+
+&lt;p&gt;I tried to play a game today for the first time in 2 months, Black Mesa. If you like PC games, check it out on Steam. Anyway, I couldn’t play for more than ten minutes before I had to stop. I have this drive to not waste time, and it feels somehow wrong to spend that precious time doing something else.&lt;/p&gt;
+
+&lt;p&gt;My original title asked the question: “Hyperfocus, or Obsession?”, but I really don’t know the answer. I’ve always had this ability to hyperfocus on something, to drive forward and solve a problem even if it means staying up late. I guess I don’t know if it’s that, or obsession. Does it matter?&lt;/p&gt;
+
+&lt;p&gt;I do know that learning to program has somehow taken over my waking life, and outside of breakfast is the first thing I think about when I get up in the morning.&lt;/p&gt;
+
+&lt;p&gt;If only code were food.&lt;/p&gt;</content><author><name>Andrew Martin</name></author><summary type="html">I’ve been coding for 60 days straight now. I hit a bump about 40 days in when I struggled really hard to continue, Mainly it was due to not knowing how to practice, but switching courses really helped. Hitting that bump helped me learn how to practice, even if no exercises are provided.</summary></entry><entry><title type="html">Udemy Courses Need More Exercises</title><link href="http://localhost:4000/2019/01/09/Udemy-Courses-Need-More-Exercises.html" rel="alternate" type="text/html" title="Udemy Courses Need More Exercises" /><published>2019-01-09T00:00:00-06:00</published><updated>2019-01-09T00:00:00-06:00</updated><id>http://localhost:4000/2019/01/09/Udemy-Courses-Need-More-Exercises</id><content type="html" xml:base="http://localhost:4000/2019/01/09/Udemy-Courses-Need-More-Exercises.html">&lt;p&gt;Udemy is an awesome platform for learning programming languages. I’ve bought to date 26 courses, mostly programming ones. (I got stuck in Udemy Course Hell for a bit.)&lt;/p&gt;
+
+&lt;p&gt;Before I go on, this is just my opinion, and I don’t mean to say any particular instructor is bad. There are a lot of great instructors on Udemy, and know their stuff, and the two examples I used were the two extreme ones I could find out of the bunch of courses I own.&lt;/p&gt;
+
+&lt;p&gt;When learning JavaScript, I got stuck in a spot where I could not seem to advance past a certain point. What I failed to realize is that I needed more practice that I wasn’t getting from the courses I had purchased. To be clear it wasn’t that I didn’t understand the material, or the concepts. I just couldn’t write the code.&lt;/p&gt;
+
+&lt;p&gt;Most people will say “build a project on your own”. The issue is, (in my opinion of course) that without knowing the basics, being able to WRITE the basics, what I needed was cold hard practice. Unfortunately, there’s hardly any practice to be found in most Udemy courses.&lt;/p&gt;
+
+&lt;p&gt;The Udemy platform has a way for instructors to write exercises, set certain parameters for passing, and for students to write actual code and have it checked. I saw this for the first time in Tim Buchalka’s “Java Programming Master Class for Developers”. It is chock full of exercises.&lt;/p&gt;
+
+&lt;p&gt;To compare: Colt Steele’s new Javascript Bootcamp course for 2020 contains just 4 exercises in the entire “beginner” Javascript portion. The videos in my opinion are harder to follow along with due to how they are shot. A lot of them are not even code-along videos, and the code instantly appears because it’s prewritten. This course seems built to be a reference. Which is fine, but I wouldn’t say it is any kind of a bootcamp course if it doesn’t provide any practice. For a brand new person who is trying to figure out what to do, they are going to (most likely) get stuck when it comes to writing actual code.&lt;/p&gt;
+
+&lt;p&gt;In contrast, Tim Buchalca’s Java Master Class has 13 coding exercises. In just one section. Each one so far has taken me anywhere from 30 minutes to 2 hours to complete, a couple I worked on over a few 2 hour sessions. He takes whatever concept is being worked on, and makes you write a whole bunch of them. over and over.&lt;/p&gt;
+
+&lt;p&gt;Here’s just one example of a exercise from Tim’s course:&lt;/p&gt;
+
+&lt;p&gt;-using the for statement, call the calculateInterest method with
+the amount of 10000 with an interestRate of 2,3,4,5,6,7, and 8
+and print the results to the console window.&lt;/p&gt;
+
+&lt;p&gt;-How would you modify the for loop above to do the same thing as
+shown but to start from 8% and work back to 2%&lt;/p&gt;
+
+&lt;p&gt;-Create a for statement using any range of numbers
+-Determine if the number is a prime number using the isPrime method
+-if it is a prime number, print it out AND increment a count of the
+number of prime numbers found
+-if that count is 3 exit the for loop
+-hint: Use the break; statement to exit&lt;/p&gt;
+
+&lt;p&gt;This is one of the exercises that doesn’t get checked by Udemy’s system.&lt;/p&gt;
+
+&lt;p&gt;A student should be able to write basic code with whatever concepts he’s learning, even if it is just filling a method with if/else statements.&lt;/p&gt;
+
+&lt;p&gt;The whole point of learning to code is writing lots of it. I think most of the Udemy instructors are dropping the ball by not giving what they promise students - “the last course/only course you will ever need” by not giving them plenty of opportunities for practice.&lt;/p&gt;
+
+&lt;p&gt;But that’s just my take. If you know of any other courses that provide lots of coding practice outside of building projects, please post them in the comments, I’d love to check them out. Thanks for reading.&lt;/p&gt;</content><author><name>Andrew Martin</name></author><summary type="html">Udemy is an awesome platform for learning programming languages. I’ve bought to date 26 courses, mostly programming ones. (I got stuck in Udemy Course Hell for a bit.)</summary></entry><entry><title type="html">Two Weeks Of Java: No Decaf</title><link href="http://localhost:4000/2019/01/08/Two-Weeks-of-Java-No-Decaf.html" rel="alternate" type="text/html" title="Two Weeks Of Java: No Decaf" /><published>2019-01-08T00:00:00-06:00</published><updated>2019-01-08T00:00:00-06:00</updated><id>http://localhost:4000/2019/01/08/Two-Weeks-of-Java:-No-Decaf</id><content type="html" xml:base="http://localhost:4000/2019/01/08/Two-Weeks-of-Java-No-Decaf.html">&lt;p&gt;I’ve been doing the #100daysOfCode challenge on tweeter, currently 56 days in. About 2 weeks ago (15 days to be exact) I switched from struggling in JavaScript to learning Java. I’ve been going through Tim Buchalca’s “Java Programming Master Class”. It’s a gigantic course (over 75 hours worth) and covers anything you could possibly think of.
+Since switching, I find I’ve had a much easier time retaining what I’m learning. Part of that is due to the ton of coding challenges, where I actually have to write code. Not code alongs. Each one has taken me anywhere from 30 minutes to 2 hours depending on the difficulty and my grasp of what’s happening.&lt;/p&gt;
+
+&lt;p&gt;So What have I learned so far?&lt;/p&gt;
+
+&lt;p&gt;Programming things I’ve learned in Java:
+writing methods
+if/else statements
+boolean
+the usual math stuff
+comparison
+casting
+overloading methods
+a bunch of other stuff.&lt;/p&gt;
+
+&lt;p&gt;Not only have I learned it, but I’ve written 14 exercise challenges. I started the projects, set up a main method, set up a main class and a class for whatever exercise I was doing. All the code was written from scratch, not copy pasted anywhere, or copied while watching a video. For me, this is a big deal, because I’m starting to cross over from someone who needs to watch the video to get anywhere, to someone who can write (at least rudimentary) code.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Some other stuff I learned&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I decided early on that I would try to learn “job ready” skills, including uploading files to git. So every time I complete a challenge, that project gets uploaded to git via the terminal. I’d recommend anyone teaching themselves to code do this. There are a ton of tutorials on line that can walk you through how to do this. I’ve become very familiar with these three commands:&lt;/p&gt;
+
+&lt;p&gt;git add
+git commit -m “some comment within quotes”
+git push origin master&lt;/p&gt;
+
+&lt;p&gt;Obviously there’s a ton of other commands based on what you’re doing. For What I’m doing right now these get me by now that my folder is set up with git.&lt;/p&gt;
+
+&lt;p&gt;Breaking everything down into tiny, teeny pieces&lt;/p&gt;
+
+&lt;p&gt;When I first started learning coding (and if you watch a lot of Udemy courses like I do) almost never do any of the instructors show breaking something down into tiny chunks.&lt;/p&gt;
+
+&lt;p&gt;Instead of writing giant chunks of code and then testing, I just write a tiny bit. In java you can use println() and run your code to print something to the console, to see what’s going on, for instance if you’re checking true or false on something. Once I started writing a line or two and testing after, things started to click for me.&lt;/p&gt;
+
+&lt;p&gt;focus on the learning process&lt;/p&gt;
+
+&lt;p&gt;To be honest, I’m still working on this one. During my original attempts to learn how to program, I set what I see now were unrealistic goals for myself. I wanted to switch careers badly (still do!) and pushed myself instead of slowing down and really internalizing the material. I think a lot of people make this mistake, and instead of getting a job quickly they burn out and quit. Or it takes them that much longer because they really didn’t write enough code to get semi-decent. This time around, I’m slowing down to (hopefully) speed up.&lt;/p&gt;
+
+&lt;p&gt;edit: I’m not saying having goals are bad or anything. Just that realistic goals are better.&lt;/p&gt;
+
+&lt;p&gt;Learn how to think(and talk) problems through&lt;/p&gt;
+
+&lt;p&gt;When I get stuck on something, its usually because I haven’t broken it down enough. Now, I’m not a master of this. I’m two weeks in and just starting to grasp what I need to do. But when I do get stuck inevitably, First I try to make the issue smaller. Then I try to think it through. I usually wind up talking out loud, which really helps me clarify the issue. I’m not sure why this is, but it really helps.&lt;/p&gt;
+
+&lt;p&gt;Anyway, this is just some of the stuff I’ve learned over the last couple weeks. Thanks for reading.&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Tl:dr; Do Repetition</title><link href="http://localhost:4000/2019/01/06/TL-DR;-Do-Repetition.html" rel="alternate" type="text/html" title="Tl:dr; Do Repetition" /><published>2019-01-06T00:00:00-06:00</published><updated>2019-01-06T00:00:00-06:00</updated><id>http://localhost:4000/2019/01/06/TL:DR;-Do-Repetition</id><content type="html" xml:base="http://localhost:4000/2019/01/06/TL-DR;-Do-Repetition.html">&lt;p&gt;After too many starts and stops, I’ve come to realize that what I lacked in trying to learn to program was not enough repetition/ practice. Most Udemy courses are project based, which is great for seeing how something works within a real project, but they don’t seem to include much in the way of practice of each concept, and things can sometimes get glossed over. At least, that’s the way it seems to me.&lt;/p&gt;
+
+&lt;p&gt;It’s possible that my expectations are skewed, but what I expected of a “bootcamp” course is something that forces me to program. As an example, when I was in high school learning math, the teacher would go over a concept, and then give us like 2 sheets of problems to solve using those concepts.&lt;/p&gt;
+
+&lt;p&gt;The same goes for music. I learned to play both piano and guitar. I took almost 10 years of lessons starting when I was 5, to about 15 years old. The system for learning was, here’s a piece of music. Practice it over and over. More complicated pieces my take a month or more to get nearly perfect. At that point move to the next piece, which might be slightly more complicated/teach some different theory. And on and on.&lt;/p&gt;
+
+&lt;p&gt;About 2 weeks ago I ran into Tim Buchalca’s Udemy Java course. It has changed my perspective on what a Udemy course can be. It is huge(75 hours long) and is jam packed with exercises that make you think through problems and write code without just coding along.
+Obviously everyone learns different, but for me, having the extra exercises has made a huge difference in my ability to write and understand code, as well as my ability to break down poblems into tiny chunks and work through them.&lt;/p&gt;
+
+&lt;p&gt;Once I get through the basics in Java, i have a few small projects in mind that I’m going to build for more practice. That’s still a ways out since I’m only 2 weeks in.&lt;/p&gt;
+
+&lt;p&gt;If anyone wants to hit me up on Tweeter, I’m @Andevrs.
+Thanks for reading.&lt;/p&gt;</content><author><name>Andrew</name></author><summary type="html">After too many starts and stops, I’ve come to realize that what I lacked in trying to learn to program was not enough repetition/ practice. Most Udemy courses are project based, which is great for seeing how something works within a real project, but they don’t seem to include much in the way of practice of each concept, and things can sometimes get glossed over. At least, that’s the way it seems to me.</summary></entry></feed>
