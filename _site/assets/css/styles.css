@@ -19,11 +19,11 @@ h1 { font-size: 3em; font-family: 'Helvetica', 'Arial', 'Sans-Serif'; text-align
 
 p { font-size: 1.5em; line-height: 1.4em; color: #E0E0E0; }
 
-.meta-tags { text-align: center; }
+.meta-tags { text-align: left; }
 
 footer { border-top: 1px solid #d5d5d5; font-size: .8em; margin-top: 50px; padding-top: 50px; }
 
-ul.posts { margin: 20px auto 40px; font-size: 1.5em; }
+ul.posts { margin: 20px auto 40px; font-size: 1.5em; align-content: left; }
 
 ul.posts li { list-style: none; }
 

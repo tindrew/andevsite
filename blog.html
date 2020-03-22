@@ -3,9 +3,10 @@ layout: default
 title: The Codist
 ---
 	<h1>{{ page.title }}</h1>
-	<ul class="posts nav-links">
-
-	  {% for post in site.posts %}
-	    <li class="meta-tags"><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
-	  {% endfor %}
-	</ul>
+	<div class="container ">
+		<ul class="posts nav-links ">
+		{% for post in site.posts %}
+			<li class="meta-tags"><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+		{% endfor %}
+		</ul>
+	</div>
