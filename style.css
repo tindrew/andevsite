@@ -15,6 +15,19 @@ body {
   margin: 0;
 }
 
+.icons {
+  margin-top: 5rem;
+}
+
+.social {
+  padding: 2rem;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
 #fadeout {
   opacity: 1;
   transition: 1s opacity;

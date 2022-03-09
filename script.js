@@ -23,35 +23,3 @@ setInterval(() => {
 },2000);
 
 
-
-
-
-
-
-
-// var textArray= ["text1","text2","text3","text4"];
-// var counter = 0;
-// var myGreeting = document.getElementById("h2TagId"); // change this 
-// var imgTag = document.pic1;
-// var end = imgArray.length - 1;
-
-// function changeGreeting() {
-//     if (counter == end){
-//         counter = 0;    
-//     }
-//     else {
-//         counter++;
-//     }
-//     myGreeting.innerHTML = textArray[counter];
-//     setTimeout(changeGreeting, 2000);
-// }
-// setTimeout(changeGreeting, 2000);
-
-
-// window.onload = function() {
-//   window.setTimeout(fadeOut, 8000)
-// }
-
-// function fadeOut() {
-//   document.getElementById('fadeOut').style.opacity = '0'
-// 
