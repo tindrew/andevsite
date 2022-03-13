@@ -42,4 +42,7 @@ a {
     width: 100vw;
     font-size: 2rem;
   }
+  #id {
+    font-size: 2rem;
+ }
 }
