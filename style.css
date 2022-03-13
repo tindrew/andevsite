@@ -40,9 +40,8 @@ a {
 @media (max-width: 480px) {
   .container {
     width: 100vw;
-    font-size: 2rem;
   }
-  #id {
+  .intro#title {
     font-size: 2rem;
  }
 }
