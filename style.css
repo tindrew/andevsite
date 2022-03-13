@@ -37,23 +37,14 @@ a {
   transition: 1s opacity;
 }
 
-@media (max-width: 480px) {
+@media (max-width: 480px, 720px) {
   .container {
     width: 100vw;
-  }
-  #title {
-    font-size: 1rem;
- }
-}
-
-@media (max-width: 720px) {
-  #title {
-    font-size:1rem;
-  }
-
-  display: flex;
+     display: flex;
   flex-direction: column;
   align-items: center;
-  justify-content: center;
-  height: 100vh;
+    font-size: 1rem;
+  }
+  
 }
+
